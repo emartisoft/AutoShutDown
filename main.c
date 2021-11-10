@@ -1,5 +1,5 @@
 /*
-1. Add this app to startup folder (C:\Users\<USER>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)
+1. Copy this app to startup folder (C:\Users\<USER>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)
   (to open startup folder from terminal, write "shell:startup"
 2. Copy windowsOpenHours.txt to C:\Windows
 
