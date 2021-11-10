@@ -34,7 +34,6 @@ int main()
     bool done = false;
     bool shutdown = false;
     getOpenHours();
-    printf("\nStarting...\n");
 
     while(!done)
     {
